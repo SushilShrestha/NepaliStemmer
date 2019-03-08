@@ -1,5 +1,5 @@
 # Nepali Stemmer
-The [snowball stemmer project](https://github.com/snowballstem/snowball) implements a stemmer for standard Nepali stemmer, this project provides a docker build script to make the stemmer available in a docker container. 
+The [snowball stemmer project](https://github.com/snowballstem/snowball) implements a standard Nepali stemmer based on [paper by I. Shrestha and S. S. Dhakal](https://www.semanticscholar.org/paper/A-new-stemmer-for-Nepali-language-Shrestha-Dhakal/f60377b81f643cb3a21aa8e0e1b13df6b35edbe9). This project provides a docker build script to make the stemmer available in a docker container. 
 ### Usage
 ```
 $ git clone https://github.com/SushilShrestha/NepaliStemmer
